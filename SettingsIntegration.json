@@ -1,0 +1,29 @@
+{
+  "AppUrl": "url crm system",
+  "RabbitMQAuthUrl": "amqp://user:pass@address/crm",
+  "Login": "login cm system",
+  "Password": "pass crm system",
+  "UserSessionTimeout": 10,
+  "ApplicationSettings": [
+    {
+      "Exchange": "faust",
+      "QueuName": "name queue",
+      "Type": "fanout"
+    },
+    {
+      "Exchange": "faust",
+      "QueuName": "name queue two",
+      "Type": "fanout"
+    }
+  ],
+  "CollectionService": {
+    "Employee": "/0/rest/Stn1cService/RequestEmployee",
+    "JobPosition": "/0/rest/Stn1cService/RequestJobPosition",
+    "Department": "/0/rest/Stn1cService/RequestDepartment",
+    "StaffTable": "/0/rest/Stn1cService/RequestStaffTable",
+    "SendEmployeeHistory": "/0/rest/Stn1cService/RequestEmployeeHistory",
+    "SendCalendar": "/0/rest/Stn1cService/RequestSendCalendar",
+    "SendVacation": "/0/rest/Stn1cService/RequestSendVacation",
+    "agent": "/0/rest/StnBillingService/GetAgents"
+  }
+}
