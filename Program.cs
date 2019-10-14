@@ -2,6 +2,7 @@
 using CrmServiceBus.Models;
 using RabbitMQ.Client;
 using CrmServiceBus.Receiver;
+using CrmServiceBus.Models;
 
 namespace CrmServiceBus
 {
@@ -9,8 +10,15 @@ namespace CrmServiceBus
     {
         public static void Main()
         {
-            ModelAppSettings.LinkToObject = ModelAppSettings.StartSetupSettingApp();
-            SubscribeChannel();
+            try
+            {
+                ModelAppSettings.LinkToObject = ModelAppSettings.StartSetupSettingApp();
+                SubscribeChannel();
+            }
+            catch (Exception ex)
+            {
+                Log.Write(ex);
+            }
         }
 
         /// <summary>

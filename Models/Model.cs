@@ -9,6 +9,13 @@ using Newtonsoft.Json;
 
 namespace CrmServiceBus.Models
 {
+    public struct ConstantApp
+    {
+        public static readonly string LOG_INFO = "Info";
+        public static readonly string LOG_WARN = "Warn";
+        public static readonly string LOG_ERROR = "Error";
+    }
+
     #region Integration app settings setup
     public class ModelAppSettings
     {
@@ -284,55 +291,55 @@ namespace CrmServiceBus.Models
     #endregion
 
     #region Class for Logging
-    public static class Log
+    public class ExtensionLogging
     {
-        private static object sync = new object();
+        private static string PathAppLog {
+            get
+            {
+                string pathToLog = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Log");
+                if (!Directory.Exists(pathToLog))
+                    Directory.CreateDirectory(pathToLog);
+                return pathToLog;
+            }
+        }
+        private static string _FileName { get; set; }
+        public static string FileName { get => _FileName; set => _FileName = Path.Combine(PathAppLog, string.Format("{0}_{1}_{2:dd.MM.yyy}.log", value,
+                AppDomain.CurrentDomain.FriendlyName, DateTime.Now)); }
+        private protected static object sync = new object();
 
+    }
+
+    public class Log : ExtensionLogging
+    {
         public static object Sync { get => sync; set => sync = value; }
-
         public static void Write(Exception ex)
         {
             try
             {
-                // Путь .\\Log
-                string pathToLog = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Log");
-                if (!Directory.Exists(pathToLog))
-                    Directory.CreateDirectory(pathToLog); // Создаем директорию, если нужно
-                string filename = Path.Combine(pathToLog, string.Format("{0}_{1:dd.MM.yyy}.log",
-                AppDomain.CurrentDomain.FriendlyName, DateTime.Now));
-                string fullText = string.Format("[{0:dd.MM.yyy HH:mm:ss.fff}] [{1}.{2}()] {3}\r\n",
+                ExtensionLogging.FileName = ConstantApp.LOG_ERROR;
+                string fullText = string.Format("{0}[{1:dd.MM.yyy HH:mm:ss.fff}] [{2}.{3}()] {4}\r\n", Environment.NewLine,
                 DateTime.Now, ex.TargetSite.DeclaringType, ex.TargetSite.Name, ex.Message);
                 lock (Sync)
                 {
-                    File.AppendAllText(filename, fullText, Encoding.UTF8);
+                    File.AppendAllText(ExtensionLogging.FileName, fullText, Encoding.UTF8);
                 }
             }
-            catch
-            {
-                // Перехватываем все и ничего не делаем
-            }
+            catch {}
         }
 
-        public static void Write(string msg)
+        public static void Write(string LevelLogging, string msg)
         {
             try
             {
-                // Путь .\\Log
-                string pathToLog = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Log");
-                if (!Directory.Exists(pathToLog))
-                    Directory.CreateDirectory(pathToLog); // Создаем директорию, если нужно
-                string filename = Path.Combine(pathToLog, string.Format("{0}_{1:dd.MM.yyy}.log",
-                AppDomain.CurrentDomain.FriendlyName, DateTime.Now));
-                string fullText = msg + "\n\n";
+                ExtensionLogging.FileName = LevelLogging;
+                string fullText = string.Format("{0}[{1:dd.MM.yyy HH:mm:ss.fff}] [{2}]\r\n", Environment.NewLine,
+                DateTime.Now, msg);
                 lock (Sync)
                 {
-                    File.AppendAllText(filename, fullText, Encoding.UTF8);
+                    File.AppendAllText(ExtensionLogging.FileName, fullText, Encoding.UTF8);
                 }
             }
-            catch
-            {
-                // Перехватываем все и ничего не делаем
-            }
+            catch {}
         }
     }
     #endregion

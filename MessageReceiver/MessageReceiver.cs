@@ -31,8 +31,15 @@ namespace CrmServiceBus.Receiver
         {
             ExecuteThreadParameters executeThreadParameters = new ExecuteThreadParameters(
                 Encoding.UTF8.GetString(rabbitMessage), _channel, deliveryTag, routingKey, exchange);
-            RequestAuthServiceClass requestAuthService = new RequestAuthServiceClass();
-            requestAuthService.AuthRequest();
+            try
+            {
+                RequestAuthServiceClass requestAuthService = new RequestAuthServiceClass();
+                requestAuthService.AuthRequest();
+            }
+            catch (Exception ex)
+            {
+                Log.Write(ex);
+            }
             Thread executingIntegration = new Thread(executeThreadParameters.ExecuteCrmThread);
             executingIntegration.Start();
         }

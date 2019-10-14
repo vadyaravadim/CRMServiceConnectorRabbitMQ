@@ -64,7 +64,7 @@ namespace CrmServiceBus.RequestController
         private static object MappingCollectionMethod1C<T>(T applicationClassRequest)
         {
             DataIntegration1C data1C = applicationClassRequest as DataIntegration1C;
-            Log.Write(JsonConvert.SerializeObject(applicationClassRequest));
+            Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(applicationClassRequest));
             string stringJsonObject = JsonConvert.SerializeObject(data1C.Data);
             object requestData;
 
@@ -147,9 +147,9 @@ namespace CrmServiceBus.RequestController
                 using (StreamReader reader = new StreamReader(response.GetResponseStream()))
                 {
                     SettingLastTimeAuth(response);
-                    T reponse = JsonConvert.DeserializeObject<T>(reader.ReadToEnd());
-                    Log.Write(JsonConvert.SerializeObject(reponse));
-                    return reponse;
+                    T responseRequest = JsonConvert.DeserializeObject<T>(reader.ReadToEnd());
+                    Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(responseRequest));
+                    return responseRequest;
                 }
             }
         }
