@@ -1,18 +1,18 @@
 {
-  "AppUrl": "http://84.201.137.19:5100",
-  "RabbitMQAuthUrl": "amqp://mango:mango@84.201.137.19:5672/crm",
-  "Login": "Supervisor",
-  "Password": "8m2Tjoes6ITf",
+  "AppUrl": "localhost",
+  "RabbitMQAuthUrl": "amqp://log:pass@localhost/crm",
+  "Login": "log app",
+  "Password": "pass app",
   "UserSessionTimeout": 10,
   "ApplicationSettings": [
     {
       "Exchange": "faust",
-      "QueuName": "queue_billing",
+      "QueuName": "queue rabbit",
       "Type": "fanout"
     },
     {
       "Exchange": "faust",
-      "QueuName": "queue_1c_test",
+      "QueuName": "queue rabbit",
       "Type": "fanout"
     }
   ],
