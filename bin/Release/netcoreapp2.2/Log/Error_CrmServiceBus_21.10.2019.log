@@ -1,0 +1,24 @@
+﻿
+[21.10.2019 21:48:45.298] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:48:45.594] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:48:46.251] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:48:51.701] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:48:52.204] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:53:05.381] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 21:54:43.558] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..]
+
+[21.10.2019 22:03:19.058] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2018-01-09T00:00:00","Registrar":"Прием на работу 5 от 09.01.2018","EventType":"Прием","Rate":"1","EmploymentId":"113aa50a-f51e-11e7-8554-003048653dec","DepartmentId":"6c839edc-64d6-11e4-ae16-003048653dec","JobPositionId":"35adaea3-7ff9-11e2-9067-003048653dec"}}]
+
+[21.10.2019 22:03:19.426] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 828 от 17.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"113aa50a-f51e-11e7-8554-003048653dec","DepartmentId":"6c839edc-64d6-11e4-ae16-003048653dec","JobPositionId":"35adaea3-7ff9-11e2-9067-003048653dec"}}]
+
+[21.10.2019 22:03:23.153] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2016-06-27T00:00:00","Registrar":"Прием на работу 107-пр от 27.06.2016","EventType":"Прием","Rate":"1","EmploymentId":"610076ec-3eb5-11e6-80bd-003048653dec","DepartmentId":"b56572fc-d9d4-11e4-a56b-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18"}}]
+
+[21.10.2019 22:03:23.521] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2018-07-01T00:00:00","Registrar":"Кадровый перевод 352/10 от 29.06.2018","EventType":"Перемещение","Rate":"1","EmploymentId":"610076ec-3eb5-11e6-80bd-003048653dec","DepartmentId":"b56572fc-d9d4-11e4-a56b-003048653dec","JobPositionId":"b40e519c-1a0a-11df-bc62-001d6025bf18"}}]
+
+[21.10.2019 22:03:23.877] [System.Net.HttpWebRequest.GetResponse()] [The remote server returned an error: (400) Bad Request..{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-09-16T00:00:00","Registrar":"Кадровый перевод 715/1 от 13.09.2019","EventType":"Перемещение","Rate":"1","EmploymentId":"610076ec-3eb5-11e6-80bd-003048653dec","DepartmentId":"b56572fc-d9d4-11e4-a56b-003048653dec","JobPositionId":"c2bd08ec-1a10-11df-bc62-001d6025bf18"}}]

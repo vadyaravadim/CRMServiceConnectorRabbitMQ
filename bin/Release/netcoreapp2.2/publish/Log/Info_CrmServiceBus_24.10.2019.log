@@ -1,0 +1,236 @@
+﻿
+[24.10.2019 09:52:13.253] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 09:52:13.520] [{"employeeData":{"Id":"cde5d7fe-f628-11e9-80d6-ac1f6bb077bf","Name":"Котельникова Мария Михайловна","PersonnelNumber":"00ЗК-00047","FullName":"Котельникова Мария Михайловна","ReceiptDate":"0001-01-01T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"","JobPositionId":"","EmploymentType":"","ContractType":"","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 09:55:40.411] [{"employeeData":{"Id":"cde5d7fe-f628-11e9-80d6-ac1f6bb077bf","Name":"Котельникова Мария Михайловна","PersonnelNumber":"0000002807","FullName":"Котельникова Мария Михайловна","ReceiptDate":"2019-10-24T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2020-01-24T00:00:00","DepartmentId":"4e589749-df4a-11e7-8554-003048653dec","JobPositionId":"b40e5187-1a0a-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 09:55:40.790] [{"sendVacationData":{"EmploymentId":"cde5d7fe-f628-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-10-24T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 09:55:49.853] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2013-11-18T00:00:00","Registrar":"Прием на работу 168пр от 18.11.2013","EventType":"Прием","Rate":"1","EmploymentId":"7f330a69-529f-11e3-8eb1-003048653dec","DepartmentId":"cd8a1bc8-7169-11e0-9c1a-0030487d9467","JobPositionId":"c479b298-eca8-11df-85e3-0030487d9467"}}]
+
+[24.10.2019 09:55:50.056] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2015-01-12T00:00:00","Registrar":"Кадровый перевод 3/2-пд от 12.01.2015","EventType":"Перемещение","Rate":"1","EmploymentId":"7f330a69-529f-11e3-8eb1-003048653dec","DepartmentId":"bdbbeefc-cae2-11e3-b6d7-003048653dec","JobPositionId":"c479b298-eca8-11df-85e3-0030487d9467"}}]
+
+[24.10.2019 09:55:50.200] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2018-05-01T00:00:00","Registrar":"Кадровый перевод 233/9 от 28.04.2018","EventType":"Перемещение","Rate":"1","EmploymentId":"7f330a69-529f-11e3-8eb1-003048653dec","DepartmentId":"bdbbeefc-cae2-11e3-b6d7-003048653dec","JobPositionId":"437572f9-3f98-11e2-a212-003048653dec"}}]
+
+[24.10.2019 09:55:50.375] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-29T00:00:00","Registrar":"Увольнение 843 от 24.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"7f330a69-529f-11e3-8eb1-003048653dec","DepartmentId":"bdbbeefc-cae2-11e3-b6d7-003048653dec","JobPositionId":"437572f9-3f98-11e2-a212-003048653dec"}}]
+
+[24.10.2019 09:57:12.399] [{"employeeData":{"Id":"cde5d7fe-f628-11e9-80d6-ac1f6bb077bf","Name":"Котельникова Мария Михайловна","PersonnelNumber":"0000002807","FullName":"Котельникова Мария Михайловна","ReceiptDate":"2019-10-24T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2020-01-24T00:00:00","DepartmentId":"4e589749-df4a-11e7-8554-003048653dec","JobPositionId":"b40e5187-1a0a-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 09:57:12.508] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-19T00:00:00","EndDate":"2019-10-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 09:57:12.624] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-02T00:00:00","EndDate":"2019-10-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 09:57:12.744] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-05T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 09:57:12.875] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-10-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 09:57:13.018] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-19T00:00:00","EndDate":"2019-10-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 09:57:13.124] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-21T00:00:00","EndDate":"2019-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 09:57:13.225] [{"sendVacationData":{"EmploymentId":"93d37af5-aa03-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-22T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:29:01.945] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 10:29:02.192] [{"employeeData":{"Id":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","Name":"Лавренев Сергей Александрович","PersonnelNumber":"0000000062","FullName":"Лавренев Сергей Александрович","ReceiptDate":"2019-10-14T00:00:00","DismissalDate":"2019-10-25T00:00:00","СompletionTrialPeriodDate":"2020-01-18T00:00:00","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 10:29:02.344] [{"employeeData":{"Id":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","Name":"Лавренев Сергей Александрович","PersonnelNumber":"0000000062","FullName":"Лавренев Сергей Александрович","ReceiptDate":"2019-10-14T00:00:00","DismissalDate":"2019-10-25T00:00:00","СompletionTrialPeriodDate":"2020-01-18T00:00:00","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 10:29:05.197] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-14T00:00:00","Registrar":"Прием на работу 68 от 14.10.2019","EventType":"Прием","Rate":"1","EmploymentId":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf"}}]
+
+[24.10.2019 10:29:05.347] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-14T00:00:00","Registrar":"Прием на работу 68 от 14.10.2019","EventType":"Прием","Rate":"1","EmploymentId":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf"}}]
+
+[24.10.2019 10:29:05.503] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 74 от 23.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf"}}]
+
+[24.10.2019 10:29:05.634] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 74 от 23.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"e8017c2b-ee57-11e9-80d6-ac1f6bb077bf","DepartmentId":"db570977-d49a-11e9-80d6-ac1f6bb077bf","JobPositionId":"39d4bdb0-d530-11e9-80d6-ac1f6bb077bf"}}]
+
+[24.10.2019 10:29:05.776] [{"sendVacationData":{"EmploymentId":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Id":null,"StartDate":"2019-08-06T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:29:05.897] [{"sendVacationData":{"EmploymentId":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 10:29:06.015] [{"sendVacationData":{"EmploymentId":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Id":null,"StartDate":"2019-09-07T00:00:00","EndDate":"2019-10-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:29:06.174] [{"sendVacationData":{"EmploymentId":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Id":null,"StartDate":"2019-10-23T00:00:00","EndDate":"2019-10-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 10:29:06.309] [{"sendVacationData":{"EmploymentId":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Id":null,"StartDate":"2019-10-24T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:37:57.352] [{"employeeData":{"Id":"11e753d4-b818-11e9-80d4-ac1f6bb077bf","Name":"Ахметшина Светлана Расулевна","PersonnelNumber":"0000002690","FullName":"Ахметшина Светлана Расулевна","ReceiptDate":"2019-08-06T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2019-11-12T00:00:00","DepartmentId":"8b553fd7-699f-11e8-a04f-003048653dec","JobPositionId":"fc271d4f-69a1-11e8-a04f-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 10:53:30.002] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 10:53:30.229] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2018-01-09T00:00:00","Registrar":"Прием на работу 5 от 09.01.2018","EventType":"Прием","Rate":"1","EmploymentId":"113aa50a-f51e-11e7-8554-003048653dec","DepartmentId":"6c839edc-64d6-11e4-ae16-003048653dec","JobPositionId":"35adaea3-7ff9-11e2-9067-003048653dec"}}]
+
+[24.10.2019 10:53:30.372] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 828 от 21.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"113aa50a-f51e-11e7-8554-003048653dec","DepartmentId":"6c839edc-64d6-11e4-ae16-003048653dec","JobPositionId":"35adaea3-7ff9-11e2-9067-003048653dec"}}]
+
+[24.10.2019 10:54:59.474] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-09-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:54:59.624] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-09-17T00:00:00","EndDate":"2019-09-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[24.10.2019 10:54:59.736] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-09-20T00:00:00","EndDate":"2019-10-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:54:59.874] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-11T00:00:00","EndDate":"2019-10-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 10:55:00.009] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-12T00:00:00","EndDate":"2019-10-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:55:00.128] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-15T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[24.10.2019 10:55:00.256] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-11-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:55:00.407] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-07T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[24.10.2019 10:55:00.569] [{"sendVacationData":{"EmploymentId":"bbba5dad-a6dc-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 10:58:31.600] [{"employeeData":{"Id":"6308c901-28e8-11e7-8c23-003048653dec","Name":"Варлаков Денис Александрович","PersonnelNumber":"ЦТ001642  ","FullName":"Варлаков Денис Александрович","ReceiptDate":"2017-04-18T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2017-07-18T00:00:00","DepartmentId":"15a2c350-e086-11e5-b870-003048653dec","JobPositionId":"1676f835-56d7-11e5-ada1-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 10:58:31.759] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2016-11-07T00:00:00","Registrar":"Прием на работу 194/1-пр от 07.11.2016","EventType":"Прием","Rate":"1","EmploymentId":"17dacc7c-ab30-11e6-92cf-003048653dec","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18"}}]
+
+[24.10.2019 10:58:31.880] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 840 от 23.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"17dacc7c-ab30-11e6-92cf-003048653dec","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18"}}]
+
+[24.10.2019 11:07:41.741] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 11:07:42.163] [{"employeeData":{"Id":"17dacc7c-ab30-11e6-92cf-003048653dec","Name":"Турабова Анастасия Владимировна","PersonnelNumber":"ЦТ001535  ","FullName":"Турабова Анастасия Владимировна","ReceiptDate":"2016-11-07T00:00:00","DismissalDate":"2019-10-25T00:00:00","СompletionTrialPeriodDate":"2020-08-04T00:00:00","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 11:11:41.834] [{"employeeData":{"Id":"17dacc7c-ab30-11e6-92cf-003048653dec","Name":"Турабова Анастасия Владимировна","PersonnelNumber":"ЦТ001535  ","FullName":"Турабова Анастасия Владимировна","ReceiptDate":"2016-11-07T00:00:00","DismissalDate":"2019-10-25T00:00:00","СompletionTrialPeriodDate":"2020-08-04T00:00:00","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 11:12:37.021] [{"employeeData":{"Id":"f1dc00b7-7db4-11e7-9d58-003048653dec","Name":"Пантелеев Илья Сергеевич","PersonnelNumber":"ЦТ001741  ","FullName":"Пантелеев Илья Сергеевич","ReceiptDate":"2017-08-07T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2017-11-07T00:00:00","DepartmentId":"d279dd5d-aa8d-11e3-9d08-003048653dec","JobPositionId":"5bbd3153-1cea-11e2-a85a-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 11:15:35.417] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2016-11-07T00:00:00","Registrar":"Прием на работу 194/1-пр от 07.11.2016","EventType":"Прием","Rate":"1","EmploymentId":"17dacc7c-ab30-11e6-92cf-003048653dec","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18"}}]
+
+[24.10.2019 11:15:35.546] [{"sendEmployeeHistoryData":{"Id":null,"PeriodDate":"2019-10-26T00:00:00","Registrar":"Увольнение 840 от 23.10.2019","EventType":"Увольнение","Rate":"1","EmploymentId":"17dacc7c-ab30-11e6-92cf-003048653dec","DepartmentId":"11070c09-0888-11e2-bcb3-003048653dec","JobPositionId":"4fc73dad-1a08-11df-bc62-001d6025bf18"}}]
+
+[24.10.2019 11:36:41.455] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 11:36:41.823] [{"employeeData":{"Id":"37ae0810-b594-11e3-b9a0-003048653dec","Name":"Рублёв Андрей Александрович","PersonnelNumber":"ЦТ000660  ","FullName":"Рублёв Андрей Александрович","ReceiptDate":"2014-03-21T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2014-06-21T00:00:00","DepartmentId":"e2aed306-8a5a-11e3-9b9f-003048653dec","JobPositionId":"5bbd3153-1cea-11e2-a85a-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 13:05:26.373] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 13:18:07.478] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 13:18:07.996] [{"employeeData":{"Id":"02ad2f0c-f18b-11e9-80d6-ac1f6bb077bf","Name":"Бусняк Алексей Анатольевич","PersonnelNumber":"0000000066","FullName":"Бусняк Алексей Анатольевич","ReceiptDate":"2019-10-18T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"ea5c2e88-c266-11e9-80d6-ac1f6bb077bf","JobPositionId":"c75a7bb9-12b5-11e2-a85a-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 13:20:21.766] [{"employeeData":{"Id":"267d07b2-e995-11e9-80d6-ac1f6bb077bf","Name":"Воротилина Тамара Владимировна","PersonnelNumber":"0000000060","FullName":"Воротилина Тамара Владимировна","ReceiptDate":"2019-10-08T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"00c74377-c267-11e9-80d6-ac1f6bb077bf","JobPositionId":"c2bd08b9-1a10-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 13:22:49.469] [{"employeeData":{"Id":"334aaf66-ef27-11e9-80d6-ac1f6bb077bf","Name":"Мызников Виталий Валерьевич","PersonnelNumber":"0000000063","FullName":"Мызников Виталий Валерьевич","ReceiptDate":"2019-10-15T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"250c6916-de9a-11e9-80d6-ac1f6bb077bf","JobPositionId":"b40e513e-1a0a-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 13:27:10.420] [{"employeeData":{"Id":"ce9e27ac-f183-11e9-80d6-ac1f6bb077bf","Name":"Евтихиев Денис Михайлович","PersonnelNumber":"0000000065","FullName":"Евтихиев Денис Михайлович","ReceiptDate":"2019-10-18T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"00c74372-c267-11e9-80d6-ac1f6bb077bf","JobPositionId":"c4adedb2-4fdd-11e8-a04f-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 14:08:32.990] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 14:08:34.459] [{"employeeData":{"Id":"89874a90-efe6-11e9-80d6-ac1f6bb077bf","Name":"Афанасьев Михаил Николаевич","PersonnelNumber":"0000000064","FullName":"Афанасьев Михаил Николаевич","ReceiptDate":"2019-10-16T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"7352abf5-c267-11e9-80d6-ac1f6bb077bf","JobPositionId":"b40e51a9-1a0a-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 15:08:06.269] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 15:18:50.673] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 15:18:51.156] [{"employeeData":{"Id":"7ef0b181-d929-11e9-80d6-ac1f6bb077bf","Name":"Калякин Вячеслав Валерьевич","PersonnelNumber":"0000000051","FullName":"Калякин Вячеслав Валерьевич","ReceiptDate":"2019-09-17T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"0001-01-01T00:00:00","DepartmentId":"1113ab1a-d634-11e9-80d6-ac1f6bb077bf","JobPositionId":"3670d000-30d4-11e8-8837-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[24.10.2019 15:18:51.456] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-08-26T00:00:00","EndDate":"2019-09-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:18:51.594] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-09-13T00:00:00","EndDate":"2019-09-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:18:51.718] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-09-14T00:00:00","EndDate":"2019-10-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:18:51.860] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-10-07T00:00:00","EndDate":"2019-10-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:18:52.097] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-10-09T00:00:00","EndDate":"2019-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:18:52.242] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-10-25T00:00:00","EndDate":"2019-10-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:18:52.364] [{"sendVacationData":{"EmploymentId":"c620e68a-c7fc-11e9-80d6-ac1f6bb077bf","Id":null,"StartDate":"2019-10-26T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:28:58.739] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 15:28:59.108] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-07-02T00:00:00","EndDate":"2018-11-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:28:59.286] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-12T00:00:00","EndDate":"2018-11-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:28:59.447] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-13T00:00:00","EndDate":"2018-12-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:28:59.568] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-12-13T00:00:00","EndDate":"2018-12-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:28:59.696] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-12-18T00:00:00","EndDate":"2019-02-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:28:59.814] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-02-11T00:00:00","EndDate":"2019-02-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:28:59.964] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-03-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:29:00.072] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-02T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:29:00.197] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-03-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:29:00.305] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-28T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:29:00.443] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:29:00.835] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-25T00:00:00","EndDate":"2019-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:29:00.977] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-16T00:00:00","EndDate":"2019-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:29:01.115] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-22T00:00:00","EndDate":"2019-10-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:29:01.260] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-28T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:29:01.427] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:32.657] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-01-14T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:32.783] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:34:32.903] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-03-12T00:00:00","EndDate":"2019-03-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:34:33.015] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-03-14T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:33.132] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:34:33.243] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-06-18T00:00:00","EndDate":"2019-08-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:33.375] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-08-26T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:34:33.489] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-09-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:34:33.605] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-09-10T00:00:00","EndDate":"2019-10-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:33.740] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-10-21T00:00:00","EndDate":"2019-10-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:34:33.892] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-10-24T00:00:00","EndDate":"2019-10-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:34:34.023] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-10-28T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:34:34.153] [{"sendVacationData":{"EmploymentId":"e03c6cf2-17c4-11e9-b314-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:57.955] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[24.10.2019 15:54:58.141] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-06-20T00:00:00","EndDate":"2018-01-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:58.307] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-01-17T00:00:00","EndDate":"2018-01-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:58.469] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-01-24T00:00:00","EndDate":"2018-03-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:58.575] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-20T00:00:00","EndDate":"2018-05-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[24.10.2019 15:54:58.702] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-05-04T00:00:00","EndDate":"2018-07-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:58.813] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-07-09T00:00:00","EndDate":"2018-07-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:58.918] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-07-23T00:00:00","EndDate":"2018-09-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:59.038] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2018-10-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:59.149] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-10-08T00:00:00","EndDate":"2019-02-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:59.261] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-02-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:59.373] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-02-26T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:59.485] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-07-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:59.607] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-22T00:00:00","EndDate":"2019-10-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 15:54:59.733] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-10-24T00:00:00","EndDate":"2019-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[24.10.2019 15:54:59.840] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-10-25T00:00:00","EndDate":"2019-10-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[24.10.2019 15:54:59.945] [{"sendVacationData":{"EmploymentId":"b6c0404e-5813-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-01T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[24.10.2019 18:49:53.515] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]

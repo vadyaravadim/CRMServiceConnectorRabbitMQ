@@ -35,13 +35,13 @@ namespace CrmServiceBus.Receiver
             {
                 RequestAuthServiceClass requestAuthService = new RequestAuthServiceClass();
                 requestAuthService.AuthRequest();
+                Thread executingIntegration = new Thread(executeThreadParameters.ExecuteCrmThread);
+                executingIntegration.Start();
             }
             catch (Exception ex)
             {
                 Log.Write(ex);
             }
-            Thread executingIntegration = new Thread(executeThreadParameters.ExecuteCrmThread);
-            executingIntegration.Start();
         }
 
         /// <summary>
@@ -70,6 +70,12 @@ namespace CrmServiceBus.Receiver
                 _exchange = exchange;
             }
 
+            public ulong DeliveryTag => deliveryTag;
+
+            public string RoutingKey => _routingKey;
+
+            public IModel Channel => _channel;
+
             /// <summary>
             /// Метод выполняющий запросы в CRM, по маппингу полученного ключа с файлом SettingsIntegration
             /// Параметр для маппинга ключей в конфигурационном файле: CollectionService
@@ -80,7 +86,7 @@ namespace CrmServiceBus.Receiver
                 {
                     if (_exchange == "exchange1c")
                     {
-                        DataIntegration1C executeData1C = JsonConvert.DeserializeObject<DataIntegration1C>(BasicDeliverEvent);
+                        DataIntegration1C<object> executeData1C = JsonConvert.DeserializeObject<DataIntegration1C<object>>(BasicDeliverEvent);
                         RequestApplicationClass requestApplicationClass = new RequestApplicationClass(executeData1C);
                         StartIntegrationCrm(requestApplicationClass);
                     }
@@ -95,15 +101,8 @@ namespace CrmServiceBus.Receiver
 
             private void StartIntegrationCrm(RequestApplicationClass requestApplicationClass)
             {
-                try
-                {
-                    object RequestApplicationClass = requestApplicationClass.Request(GeneralSettingRequest.POST);
-                    //_channel.BasicAck(deliveryTag, false);
-                }
-                catch (Exception ex)
-                {
-                    Log.Write(ex);
-                }
+                requestApplicationClass.Request(GeneralSettingRequest.POST);
+                _channel.BasicAck(deliveryTag, false);
             }
         }
 

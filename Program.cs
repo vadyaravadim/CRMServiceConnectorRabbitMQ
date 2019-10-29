@@ -2,7 +2,6 @@
 using CrmServiceBus.Models;
 using RabbitMQ.Client;
 using CrmServiceBus.Receiver;
-using CrmServiceBus.Models;
 
 namespace CrmServiceBus
 {

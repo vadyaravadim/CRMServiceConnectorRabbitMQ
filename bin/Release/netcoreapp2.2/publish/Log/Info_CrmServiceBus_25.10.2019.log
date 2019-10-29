@@ -1,0 +1,1466 @@
+﻿
+[25.10.2019 10:50:00.726] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 10:50:03.045] [{"employeeData":{"Id":"16ecea27-a15d-11e4-95c3-003048653dec","Name":"Грубер Сергей Евгеньевич","PersonnelNumber":"ЦТ000879  ","FullName":"Грубер Сергей Евгеньевич","ReceiptDate":"2015-01-12T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2015-04-12T00:00:00","DepartmentId":"211577b6-3c97-11df-894e-0030487d9467","JobPositionId":"2814425a-3c24-11e9-b314-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[25.10.2019 11:04:58.668] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 11:04:58.952] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2009-08-13T00:00:00","EndDate":"2017-04-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:04:59.057] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-04-27T00:00:00","EndDate":"2017-05-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:04:59.166] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-05-13T00:00:00","EndDate":"2017-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:04:59.270] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-08-14T00:00:00","EndDate":"2017-08-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:04:59.380] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-08-28T00:00:00","EndDate":"2017-09-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:04:59.481] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-09-13T00:00:00","EndDate":"2017-09-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:04:59.581] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2017-09-21T00:00:00","EndDate":"2018-04-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:04:59.679] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-04-23T00:00:00","EndDate":"2018-04-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:04:59.783] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-04-30T00:00:00","EndDate":"2018-08-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:04:59.898] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-08-20T00:00:00","EndDate":"2018-09-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:00.006] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-09-03T00:00:00","EndDate":"2018-11-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:00.103] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-11-06T00:00:00","EndDate":"2018-11-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:00.207] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2018-11-15T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:00.307] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:00.425] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:00.527] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-06-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:00.634] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-06-18T00:00:00","EndDate":"2019-09-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:00.743] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-09-06T00:00:00","EndDate":"2019-09-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:00.844] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-09-07T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:00.952] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:01.070] [{"sendVacationData":{"EmploymentId":"b40e51a1-1a0a-11df-bc62-001d6025bf18","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:06.297] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-05-07T00:00:00","EndDate":"2018-11-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:06.396] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-12T00:00:00","EndDate":"2018-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:06.493] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-19T00:00:00","EndDate":"2019-03-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:06.598] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-13T00:00:00","EndDate":"2019-03-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:06.695] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-19T00:00:00","EndDate":"2019-06-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:06.801] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-03T00:00:00","EndDate":"2019-06-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:06.941] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-18T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:07.046] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:07.144] [{"sendVacationData":{"EmploymentId":"884084ff-51f3-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:08.259] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2017-12-01T00:00:00","EndDate":"2018-03-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:08.355] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-03-15T00:00:00","EndDate":"2018-03-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:08.452] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-03-17T00:00:00","EndDate":"2018-05-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:08.568] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-05-04T00:00:00","EndDate":"2018-05-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:08.669] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-05-05T00:00:00","EndDate":"2018-06-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:08.768] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-06-04T00:00:00","EndDate":"2018-06-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:08.872] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-06-19T00:00:00","EndDate":"2018-08-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:08.987] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-29T00:00:00","EndDate":"2018-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:09.120] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-02T00:00:00","EndDate":"2018-09-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:09.222] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-21T00:00:00","EndDate":"2018-09-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:09.317] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-22T00:00:00","EndDate":"2018-10-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:09.417] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-09T00:00:00","EndDate":"2018-10-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:09.516] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-10T00:00:00","EndDate":"2018-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:09.624] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-22T00:00:00","EndDate":"2018-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:09.727] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-25T00:00:00","EndDate":"2018-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:09.834] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-11-05T00:00:00","EndDate":"2018-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:09.938] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-11-19T00:00:00","EndDate":"2018-11-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:10.046] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-11-28T00:00:00","EndDate":"2018-11-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:10.217] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2014-03-05T00:00:00","EndDate":"2017-06-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:10.312] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-11-29T00:00:00","EndDate":"2018-12-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:10.422] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-12-11T00:00:00","EndDate":"2018-12-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:10.520] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2017-06-19T00:00:00","EndDate":"2017-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:10.618] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2017-07-03T00:00:00","EndDate":"2017-07-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:10.718] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2018-12-15T00:00:00","EndDate":"2019-01-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:10.821] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2017-07-31T00:00:00","EndDate":"2017-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:10.932] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2017-08-14T00:00:00","EndDate":"2018-02-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:11.027] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-01-30T00:00:00","EndDate":"2019-01-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:11.124] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-01-31T00:00:00","EndDate":"2019-02-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:11.223] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-02-19T00:00:00","EndDate":"2018-03-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:11.327] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-03-06T00:00:00","EndDate":"2018-09-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:11.447] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-02-14T00:00:00","EndDate":"2019-02-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:11.540] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-09-17T00:00:00","EndDate":"2018-09-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:11.636] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2018-11-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:11.738] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-02-15T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:11.849] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:11.952] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-11-12T00:00:00","EndDate":"2018-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:12.063] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-06-25T00:00:00","EndDate":"2019-06-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:12.170] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2018-11-19T00:00:00","EndDate":"2019-02-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:12.274] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-06-26T00:00:00","EndDate":"2019-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:12.374] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-07-03T00:00:00","EndDate":"2019-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:12.476] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-02-11T00:00:00","EndDate":"2019-02-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:12.579] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:12.762] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-08-21T00:00:00","EndDate":"2019-08-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:12.888] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:12.991] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-08-28T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:13.091] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-09-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:13.197] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-09-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:13.298] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-09-11T00:00:00","EndDate":"2019-09-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:13.415] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-21T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:13.512] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-09-12T00:00:00","EndDate":"2019-10-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:13.614] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:13.710] [{"sendVacationData":{"EmploymentId":"2a2120d7-d9b3-11e7-8554-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:13.816] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-10-14T00:00:00","EndDate":"2019-10-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:13.928] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-10-21T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:14.030] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:14.131] [{"sendVacationData":{"EmploymentId":"025dd33b-ab62-11e3-9d08-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:17.362] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-03-29T00:00:00","EndDate":"2017-05-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:17.467] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-05-15T00:00:00","EndDate":"2017-05-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:17.580] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-05-20T00:00:00","EndDate":"2017-08-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:17.737] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-08-11T00:00:00","EndDate":"2017-08-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:17.879] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-08-12T00:00:00","EndDate":"2017-10-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:18.001] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-10-09T00:00:00","EndDate":"2017-10-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:18.112] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-10-23T00:00:00","EndDate":"2017-12-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:18.234] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-12-06T00:00:00","EndDate":"2017-12-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:18.351] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-12-11T00:00:00","EndDate":"2018-01-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:18.462] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-01-22T00:00:00","EndDate":"2018-01-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:18.570] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-01-29T00:00:00","EndDate":"2018-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:18.678] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-26T00:00:00","EndDate":"2018-03-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:18.793] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-29T00:00:00","EndDate":"2018-04-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:18.929] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-09T00:00:00","EndDate":"2018-04-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:19.031] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-23T00:00:00","EndDate":"2018-08-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:19.138] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-08-06T00:00:00","EndDate":"2018-08-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:19.251] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-08-09T00:00:00","EndDate":"2018-10-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:19.347] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-10-08T00:00:00","EndDate":"2018-10-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:19.443] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-10-15T00:00:00","EndDate":"2019-04-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:19.549] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-04-19T00:00:00","EndDate":"2019-04-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:19.652] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-04-20T00:00:00","EndDate":"2019-05-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:19.747] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-05-06T00:00:00","EndDate":"2019-05-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:19.854] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-05-09T00:00:00","EndDate":"2019-05-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:19.955] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-05-20T00:00:00","EndDate":"2019-05-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:20.058] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-05-27T00:00:00","EndDate":"2019-07-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:20.157] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-07-02T00:00:00","EndDate":"2018-11-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:20.254] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-12T00:00:00","EndDate":"2018-11-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:20.349] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-17T00:00:00","EndDate":"2019-07-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:20.452] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-20T00:00:00","EndDate":"2019-07-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:20.560] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-13T00:00:00","EndDate":"2018-12-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:20.657] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-26T00:00:00","EndDate":"2019-07-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:20.764] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-27T00:00:00","EndDate":"2019-08-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:20.865] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-12-13T00:00:00","EndDate":"2018-12-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:20.970] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-12-18T00:00:00","EndDate":"2019-02-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:21.084] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-08-26T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:21.177] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-02-11T00:00:00","EndDate":"2019-02-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:21.277] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-03-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:21.377] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:21.480] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:21.576] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-02T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:21.675] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-03-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:21.781] [{"sendVacationData":{"EmploymentId":"ca0c15e1-1558-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:21.880] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-28T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:21.999] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:22.095] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-06-25T00:00:00","EndDate":"2019-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:22.204] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-16T00:00:00","EndDate":"2019-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:22.316] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-22T00:00:00","EndDate":"2019-10-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:22.427] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-28T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:22.527] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:22.632] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:22.736] [{"sendVacationData":{"EmploymentId":"28a3267a-7dc9-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:24.648] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2017-12-14T00:00:00","EndDate":"2018-04-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:24.753] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-04-19T00:00:00","EndDate":"2018-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:24.902] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-04-24T00:00:00","EndDate":"2018-07-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:25.000] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-07-23T00:00:00","EndDate":"2018-07-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:25.103] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-07-28T00:00:00","EndDate":"2018-08-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:25.219] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-11-23T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:25.335] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-13T00:00:00","EndDate":"2018-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:25.435] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:25.553] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-14T00:00:00","EndDate":"2018-08-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:25.814] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:25.981] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-17T00:00:00","EndDate":"2018-08-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:26.262] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:26.543] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-18T00:00:00","EndDate":"2018-08-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:26.666] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-10-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:26.777] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-08-27T00:00:00","EndDate":"2018-09-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:26.912] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-07T00:00:00","EndDate":"2019-10-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:27.010] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-10T00:00:00","EndDate":"2018-09-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:27.111] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-08T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:27.222] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:27.326] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-28T00:00:00","EndDate":"2018-09-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:27.421] [{"sendVacationData":{"EmploymentId":"7d1e83b7-eef9-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:27.518] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-09-29T00:00:00","EndDate":"2018-09-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:27.618] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2018-10-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:27.720] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-02T00:00:00","EndDate":"2018-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:27.825] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-22T00:00:00","EndDate":"2018-10-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:27.932] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-10-27T00:00:00","EndDate":"2018-11-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:28.054] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-11-29T00:00:00","EndDate":"2018-12-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:28.167] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-12-04T00:00:00","EndDate":"2018-12-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:28.268] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-12-10T00:00:00","EndDate":"2018-12-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:28.378] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2018-12-15T00:00:00","EndDate":"2019-01-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:28.483] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-01-09T00:00:00","EndDate":"2019-01-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:28.586] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-01-12T00:00:00","EndDate":"2019-05-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:28.686] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-05-06T00:00:00","EndDate":"2019-05-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:28.786] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-05-09T00:00:00","EndDate":"2019-06-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:28.892] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-06-05T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:28.991] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:29.097] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:29.206] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-07T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:29.314] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:29.432] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:29.533] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:29.632] [{"sendVacationData":{"EmploymentId":"1f70cd25-e09f-11e7-8554-003048653dec","Id":null,"StartDate":"2019-11-13T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:30.546] [{"sendVacationData":{"EmploymentId":"cc4db9f3-334f-11e9-b314-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:30.643] [{"sendVacationData":{"EmploymentId":"cc4db9f3-334f-11e9-b314-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:30.745] [{"sendVacationData":{"EmploymentId":"cc4db9f3-334f-11e9-b314-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:30.894] [{"sendVacationData":{"EmploymentId":"cc4db9f3-334f-11e9-b314-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:30.991] [{"sendVacationData":{"EmploymentId":"cc4db9f3-334f-11e9-b314-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:34.269] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2014-03-26T00:00:00","EndDate":"2017-01-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:34.378] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-01-24T00:00:00","EndDate":"2017-01-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:34.488] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-01-25T00:00:00","EndDate":"2017-03-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:34.596] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-03-13T00:00:00","EndDate":"2017-03-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:34.698] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-03-20T00:00:00","EndDate":"2017-04-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:34.818] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-04-13T00:00:00","EndDate":"2017-04-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:34.919] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-04-20T00:00:00","EndDate":"2017-06-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:35.020] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-06-23T00:00:00","EndDate":"2017-06-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:35.123] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-06-24T00:00:00","EndDate":"2017-09-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:35.229] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-09-04T00:00:00","EndDate":"2017-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:35.330] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-09-18T00:00:00","EndDate":"2017-10-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:35.426] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-10-20T00:00:00","EndDate":"2017-10-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:35.529] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2017-10-21T00:00:00","EndDate":"2018-02-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:35.639] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-02-17T00:00:00","EndDate":"2018-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:35.740] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-02-23T00:00:00","EndDate":"2018-02-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:35.841] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-02-26T00:00:00","EndDate":"2018-03-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:35.941] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-03-05T00:00:00","EndDate":"2018-04-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:36.044] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-04-16T00:00:00","EndDate":"2018-04-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:36.151] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-04-23T00:00:00","EndDate":"2018-05-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:36.253] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-05-21T00:00:00","EndDate":"2018-05-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:36.357] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-05-22T00:00:00","EndDate":"2018-06-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:36.456] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-06-09T00:00:00","EndDate":"2018-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:36.559] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-06-10T00:00:00","EndDate":"2018-07-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:36.660] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-07-16T00:00:00","EndDate":"2018-07-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:36.765] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-07-30T00:00:00","EndDate":"2018-07-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:36.866] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-08-01T00:00:00","EndDate":"2018-08-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:36.975] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-08-02T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:37.082] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2018-09-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:37.184] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2018-10-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:37.287] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-10-05T00:00:00","EndDate":"2018-10-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:37.404] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-10-08T00:00:00","EndDate":"2018-11-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:37.577] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-11-16T00:00:00","EndDate":"2018-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:37.674] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2018-11-17T00:00:00","EndDate":"2019-01-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:37.787] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-01-25T00:00:00","EndDate":"2019-01-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:37.883] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-01-26T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:37.979] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:38.080] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-03-18T00:00:00","EndDate":"2019-03-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:38.184] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-03-19T00:00:00","EndDate":"2019-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:38.339] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-07-10T00:00:00","EndDate":"2017-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:38.435] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-03-26T00:00:00","EndDate":"2019-05-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:38.549] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-05-13T00:00:00","EndDate":"2019-05-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:38.646] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-10-16T00:00:00","EndDate":"2017-10-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:38.748] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-10-27T00:00:00","EndDate":"2017-10-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:38.852] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-05-14T00:00:00","EndDate":"2019-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:38.955] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-07-03T00:00:00","EndDate":"2019-07-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:39.058] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-10-30T00:00:00","EndDate":"2017-11-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:39.160] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-07-04T00:00:00","EndDate":"2019-08-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:39.264] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-08-19T00:00:00","EndDate":"2019-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:39.371] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-11-03T00:00:00","EndDate":"2018-02-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:39.472] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-08-21T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:39.568] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:39.674] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-02-02T00:00:00","EndDate":"2018-02-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:39.774] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:39.873] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:39.980] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-02-03T00:00:00","EndDate":"2018-02-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:40.093] [{"sendVacationData":{"EmploymentId":"958cdb48-b66e-11e3-b9a0-003048653dec","Id":null,"StartDate":"2019-11-23T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:40.188] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-02-24T00:00:00","EndDate":"2018-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:40.283] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-11T00:00:00","EndDate":"2018-03-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:40.388] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-12T00:00:00","EndDate":"2018-03-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:40.491] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-19T00:00:00","EndDate":"2018-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:40.597] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-24T00:00:00","EndDate":"2018-04-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:40.697] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-25T00:00:00","EndDate":"2018-05-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:40.802] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-05-07T00:00:00","EndDate":"2018-05-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:40.900] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-05-15T00:00:00","EndDate":"2018-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:41.003] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-06-17T00:00:00","EndDate":"2018-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:41.111] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-06-25T00:00:00","EndDate":"2018-08-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:41.214] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-08-15T00:00:00","EndDate":"2018-08-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:41.309] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-08-16T00:00:00","EndDate":"2018-09-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:41.409] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-09-28T00:00:00","EndDate":"2018-09-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:41.509] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-09-29T00:00:00","EndDate":"2018-10-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:41.667] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-04-02T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:41.781] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-10-29T00:00:00","EndDate":"2018-11-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:41.889] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:42.002] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-11-13T00:00:00","EndDate":"2018-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.101] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-03T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.200] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:42.298] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-11-17T00:00:00","EndDate":"2018-11-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:42.395] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-11-24T00:00:00","EndDate":"2019-02-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.494] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.593] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-02-11T00:00:00","EndDate":"2019-02-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:42.693] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-02-12T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.795] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:42.893] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-03-23T00:00:00","EndDate":"2019-04-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:42.990] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-04-08T00:00:00","EndDate":"2019-04-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:43.096] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-04-22T00:00:00","EndDate":"2019-06-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:43.196] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-06-14T00:00:00","EndDate":"2019-06-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:43.293] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-06-15T00:00:00","EndDate":"2019-07-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:43.390] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-07-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:43.482] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-22T00:00:00","EndDate":"2019-08-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:43.579] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-08-20T00:00:00","EndDate":"2019-08-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:43.676] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-08-24T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:43.783] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:43.880] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:43.973] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:44.069] [{"sendVacationData":{"EmploymentId":"fe9d8db5-67ac-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:45.396] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-06-26T00:00:00","EndDate":"2017-11-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:45.495] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-11-22T00:00:00","EndDate":"2017-12-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:45.596] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2017-12-02T00:00:00","EndDate":"2018-03-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:45.692] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-03-27T00:00:00","EndDate":"2018-03-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:45.804] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-01T00:00:00","EndDate":"2018-04-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:45.904] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-23T00:00:00","EndDate":"2018-04-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:46.005] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-04-30T00:00:00","EndDate":"2018-07-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:46.355] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-07-09T00:00:00","EndDate":"2018-07-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:46.456] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-07-23T00:00:00","EndDate":"2018-09-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:46.560] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-09-17T00:00:00","EndDate":"2018-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:46.657] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2018-09-19T00:00:00","EndDate":"2019-06-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:46.762] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-06-26T00:00:00","EndDate":"2019-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:46.861] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-03T00:00:00","EndDate":"2019-07-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:46.967] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:47.075] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:47.175] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:47.275] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:47.375] [{"sendVacationData":{"EmploymentId":"3f61ee4e-5d88-11e7-8c23-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:49.191] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-05-27T00:00:00","EndDate":"2019-09-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:49.291] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-09-13T00:00:00","EndDate":"2019-09-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:49.385] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-09-14T00:00:00","EndDate":"2019-11-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:49.484] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-07T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:49.591] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:49.689] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:49.797] [{"sendVacationData":{"EmploymentId":"c2d2bf4e-8069-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:53.858] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2016-09-15T00:00:00","EndDate":"2017-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:53.958] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2017-07-03T00:00:00","EndDate":"2017-07-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:54.057] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2017-07-10T00:00:00","EndDate":"2017-10-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:54.153] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2017-10-09T00:00:00","EndDate":"2017-10-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:54.252] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2017-10-23T00:00:00","EndDate":"2018-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:54.354] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2018-06-13T00:00:00","EndDate":"2018-06-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:54.457] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2018-06-20T00:00:00","EndDate":"2018-09-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:54.565] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2018-09-10T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:54.682] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2019-08-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:54.786] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2019-08-26T00:00:00","EndDate":"2019-09-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:54.891] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2019-09-09T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:55.002] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:05:55.108] [{"sendVacationData":{"EmploymentId":"c4ac41bb-7ff9-11e6-8211-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:55.647] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-12-03T00:00:00","EndDate":"2019-01-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:55.748] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-01T00:00:00","EndDate":"2019-02-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:55.852] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-02T00:00:00","EndDate":"2019-02-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:55.952] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-27T00:00:00","EndDate":"2019-03-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:56.056] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-12-03T00:00:00","EndDate":"2019-01-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:56.157] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-06T00:00:00","EndDate":"2019-03-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:56.277] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-21T00:00:00","EndDate":"2019-03-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:56.384] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-01T00:00:00","EndDate":"2019-02-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:56.488] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-02T00:00:00","EndDate":"2019-02-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:56.584] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-22T00:00:00","EndDate":"2019-05-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:56.682] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-22T00:00:00","EndDate":"2019-05-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:56.777] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-27T00:00:00","EndDate":"2019-03-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:05:56.871] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-06T00:00:00","EndDate":"2019-03-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:56.968] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-23T00:00:00","EndDate":"2019-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:05:57.065] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-13T00:00:00","EndDate":"2019-06-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:05:57.170] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-21T00:00:00","EndDate":"2019-03-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:00.497] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-14T00:00:00","EndDate":"2019-06-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:00.768] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-22T00:00:00","EndDate":"2019-05-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:00.972] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-27T00:00:00","EndDate":"2019-06-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:01.071] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-22T00:00:00","EndDate":"2019-05-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:01.173] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-23T00:00:00","EndDate":"2019-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:01.281] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-28T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:01.381] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-13T00:00:00","EndDate":"2019-06-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:01.483] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-14T00:00:00","EndDate":"2019-06-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:01.583] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-07-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:01.686] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-22T00:00:00","EndDate":"2019-08-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:01.790] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-27T00:00:00","EndDate":"2019-06-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:01.899] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-28T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:01.999] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-08-22T00:00:00","EndDate":"2019-08-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:06:02.097] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-07-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:02.203] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-22T00:00:00","EndDate":"2019-08-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:02.306] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-08-29T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:02.402] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-09-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:02.500] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-08-22T00:00:00","EndDate":"2019-08-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:06:02.599] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-08-29T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:02.708] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-30T00:00:00","EndDate":"2019-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:02.818] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-09-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:02.917] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-25T00:00:00","EndDate":"2019-10-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:03.022] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-30T00:00:00","EndDate":"2019-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:03.125] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-25T00:00:00","EndDate":"2019-10-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:03.239] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-26T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:03.338] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-10-26T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:03.433] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:03.532] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:03.648] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:03.756] [{"sendVacationData":{"EmploymentId":"8f7fd2ce-f148-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-18T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:22.828] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2014-02-17T00:00:00","EndDate":"2017-02-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:22.949] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-02-13T00:00:00","EndDate":"2017-02-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:23.065] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2014-02-17T00:00:00","EndDate":"2017-02-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:23.163] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-12-12T00:00:00","EndDate":"2019-02-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:23.271] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-22T00:00:00","EndDate":"2019-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:23.365] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-02-28T00:00:00","EndDate":"2017-09-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:23.468] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-09-04T00:00:00","EndDate":"2017-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:23.570] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-12-12T00:00:00","EndDate":"2019-02-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:23.686] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-22T00:00:00","EndDate":"2019-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:23.785] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-05-15T00:00:00","EndDate":"2019-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:23.879] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-17T00:00:00","EndDate":"2019-11-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:23.977] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-02-13T00:00:00","EndDate":"2017-02-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:24.091] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-09-18T00:00:00","EndDate":"2018-02-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.187] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-23T00:00:00","EndDate":"2019-03-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.318] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-04T00:00:00","EndDate":"2019-03-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:24.425] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-05-15T00:00:00","EndDate":"2019-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.528] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-12-01T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.622] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-02-28T00:00:00","EndDate":"2017-09-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.728] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-09-04T00:00:00","EndDate":"2017-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:24.829] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-23T00:00:00","EndDate":"2019-03-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:24.940] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-04T00:00:00","EndDate":"2019-03-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:25.040] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-17T00:00:00","EndDate":"2019-11-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:25.139] [{"sendVacationData":{"EmploymentId":"8cb8aa84-76e1-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-12-01T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:25.238] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2017-09-18T00:00:00","EndDate":"2018-02-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:25.340] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-02-09T00:00:00","EndDate":"2018-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:25.441] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-05T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:25.556] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:25.655] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-05T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:25.752] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-02-23T00:00:00","EndDate":"2018-06-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:25.854] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-06-18T00:00:00","EndDate":"2018-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:25.949] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-12T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:26.046] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:26.139] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-02-09T00:00:00","EndDate":"2018-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:26.253] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-06-25T00:00:00","EndDate":"2018-11-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:26.354] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-11-26T00:00:00","EndDate":"2018-12-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:26.451] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-26T00:00:00","EndDate":"2019-05-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:26.555] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-24T00:00:00","EndDate":"2019-05-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:26.655] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:26.775] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-12-03T00:00:00","EndDate":"2019-06-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:26.876] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-02-23T00:00:00","EndDate":"2018-06-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:26.982] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-06-18T00:00:00","EndDate":"2018-06-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:27.095] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-12T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:27.191] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-06-03T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:27.292] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:27.391] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-06-25T00:00:00","EndDate":"2018-11-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:27.491] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-11-26T00:00:00","EndDate":"2018-12-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:27.596] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-25T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:27.697] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:27.799] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:27.900] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-26T00:00:00","EndDate":"2019-05-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.002] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:28.114] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-24T00:00:00","EndDate":"2019-07-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.216] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2018-12-03T00:00:00","EndDate":"2019-06-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.320] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-24T00:00:00","EndDate":"2019-05-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:28.419] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-25T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.517] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-12T00:00:00","EndDate":"2019-07-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:28.625] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-13T00:00:00","EndDate":"2019-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.724] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:28.823] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:28.934] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-06-03T00:00:00","EndDate":"2019-06-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:29.041] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-18T00:00:00","EndDate":"2019-09-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:29.143] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:29.250] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-24T00:00:00","EndDate":"2019-07-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:29.352] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-06-10T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:29.462] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-09-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:29.564] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:29.663] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-12T00:00:00","EndDate":"2019-07-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:06:29.757] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-13T00:00:00","EndDate":"2019-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:29.864] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-09-23T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:29.972] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-25T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:30.074] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-18T00:00:00","EndDate":"2019-09-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:30.174] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:30.269] [{"sendVacationData":{"EmploymentId":"98aba18a-9d44-11e3-a96d-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:30.373] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-25T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:30.477] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:30.577] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:06:30.679] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:06:30.795] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-11-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:10:04.520] [{"employeeData":{"Id":"c52f0644-1553-11e7-8c23-003048653dec","Name":"Сорокин Валерий Викторович","PersonnelNumber":"ЦТ001619  ","FullName":"Сорокин Валерий Викторович","ReceiptDate":"2017-03-27T00:00:00","DismissalDate":"0001-01-01T00:00:00","СompletionTrialPeriodDate":"2017-06-27T00:00:00","DepartmentId":"b8287b78-0fa9-11e7-8c23-003048653dec","JobPositionId":"c2bd08ec-1a10-11df-bc62-001d6025bf18","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[25.10.2019 11:22:00.985] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 11:22:01.193] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2010-07-01T00:00:00","EndDate":"2017-04-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:01.789] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2010-07-01T00:00:00","EndDate":"2017-04-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:01.890] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2010-07-01T00:00:00","EndDate":"2017-04-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:01.993] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-10T00:00:00","EndDate":"2017-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:02.108] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-10T00:00:00","EndDate":"2017-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:02.204] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-10T00:00:00","EndDate":"2017-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:02.303] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-24T00:00:00","EndDate":"2017-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:02.403] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-06-29T00:00:00","EndDate":"2018-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:02.521] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-06-29T00:00:00","EndDate":"2018-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:02.619] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-24T00:00:00","EndDate":"2017-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:02.722] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2019-07-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:02.838] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-01T00:00:00","EndDate":"2019-08-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:02.947] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2019-07-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:03.052] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-04-24T00:00:00","EndDate":"2017-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:03.165] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-13T00:00:00","EndDate":"2017-06-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:03.271] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-13T00:00:00","EndDate":"2017-06-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:03.370] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-14T00:00:00","EndDate":"2018-08-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:03.495] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-14T00:00:00","EndDate":"2018-08-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:03.597] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-13T00:00:00","EndDate":"2017-06-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:03.748] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-20T00:00:00","EndDate":"2017-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:03.854] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-15T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:03.957] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-01T00:00:00","EndDate":"2019-08-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:04.059] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-15T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:04.167] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-20T00:00:00","EndDate":"2017-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:04.273] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-06-20T00:00:00","EndDate":"2017-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:04.374] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-14T00:00:00","EndDate":"2017-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:04.564] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-17T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:04.702] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2018-10-01T00:00:00","EndDate":"2019-07-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:04.846] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-14T00:00:00","EndDate":"2017-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:04.968] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:05.068] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-06-29T00:00:00","EndDate":"2018-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:05.170] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-14T00:00:00","EndDate":"2018-08-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:05.271] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-14T00:00:00","EndDate":"2017-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:05.374] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-21T00:00:00","EndDate":"2017-09-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:05.469] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-21T00:00:00","EndDate":"2017-09-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:05.575] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-12T00:00:00","EndDate":"2017-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:05.679] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-01T00:00:00","EndDate":"2019-08-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:05.793] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-08-15T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:05.895] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:05.993] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:06.100] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-17T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:06.260] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2018-09-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:06.381] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-12T00:00:00","EndDate":"2017-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:06.510] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2018-09-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:06.619] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-19T00:00:00","EndDate":"2017-12-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:06.783] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-08-21T00:00:00","EndDate":"2017-09-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:06.974] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:07.263] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:07.377] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-08-17T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:07.486] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-29T00:00:00","EndDate":"2018-11-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:07.593] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-16T00:00:00","EndDate":"2018-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:07.722] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-29T00:00:00","EndDate":"2018-11-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:07.849] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-12-10T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:07.959] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-12T00:00:00","EndDate":"2017-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:08.080] [{"sendVacationData":{"EmploymentId":"0f32b162-c552-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.206] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2018-09-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:08.309] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-19T00:00:00","EndDate":"2017-12-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.414] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-17T00:00:00","EndDate":"2019-03-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.519] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-16T00:00:00","EndDate":"2018-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:08.629] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-17T00:00:00","EndDate":"2019-03-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.737] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-09-19T00:00:00","EndDate":"2017-12-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.862] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-09-29T00:00:00","EndDate":"2018-11-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:08.988] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-12-10T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:09.126] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-07T00:00:00","EndDate":"2019-03-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:09.294] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-01T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:09.421] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-07T00:00:00","EndDate":"2019-03-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:09.586] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2017-12-10T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:09.688] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-16T00:00:00","EndDate":"2018-11-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:09.788] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-01T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:09.888] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-16T00:00:00","EndDate":"2018-06-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:09.992] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-16T00:00:00","EndDate":"2018-06-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:10.094] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-08T00:00:00","EndDate":"2019-04-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:10.211] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-04-22T00:00:00","EndDate":"2019-04-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:10.315] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2018-11-17T00:00:00","EndDate":"2019-03-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:10.446] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-08T00:00:00","EndDate":"2019-04-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:10.552] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-06-11T00:00:00","EndDate":"2018-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:10.661] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-10-16T00:00:00","EndDate":"2019-04-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:10.767] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-01T00:00:00","EndDate":"2018-01-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:11.198] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-05-01T00:00:00","EndDate":"2019-07-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:11.298] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-07T00:00:00","EndDate":"2019-03-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:11.403] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-03-08T00:00:00","EndDate":"2019-04-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:11.611] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-06-11T00:00:00","EndDate":"2018-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:11.751] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-15T00:00:00","EndDate":"2019-04-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:11.943] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-01-16T00:00:00","EndDate":"2018-06-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:12.172] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-05T00:00:00","EndDate":"2019-07-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:12.346] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-04-22T00:00:00","EndDate":"2019-04-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:12.559] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-04-22T00:00:00","EndDate":"2019-04-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:12.668] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-10-16T00:00:00","EndDate":"2019-04-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:12.772] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-29T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:12.873] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:13.006] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-08-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:13.151] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-05-01T00:00:00","EndDate":"2019-07-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:13.301] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-05-01T00:00:00","EndDate":"2019-07-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:14.027] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-15T00:00:00","EndDate":"2019-04-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:14.169] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-06-11T00:00:00","EndDate":"2018-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:14.336] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:14.435] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-19T00:00:00","EndDate":"2019-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:14.547] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-05T00:00:00","EndDate":"2019-07-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:14.658] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-05T00:00:00","EndDate":"2019-07-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:22:14.774] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-29T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:17.965] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2018-10-16T00:00:00","EndDate":"2019-04-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:18.071] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:18.174] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-21T00:00:00","EndDate":"2019-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:18.280] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-09-19T00:00:00","EndDate":"2019-10-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:18.381] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-08-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:18.481] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-19T00:00:00","EndDate":"2019-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:18.584] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-15T00:00:00","EndDate":"2019-04-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:18.696] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-04-29T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:18.801] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-07-15T00:00:00","EndDate":"2019-08-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:18.903] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-19T00:00:00","EndDate":"2019-08-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:19.004] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:19.104] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:19.207] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:19.304] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-07-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:19.413] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-07-08T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.017] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-21T00:00:00","EndDate":"2019-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.120] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-08-21T00:00:00","EndDate":"2019-09-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.224] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:20.328] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.436] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:20.541] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-09-19T00:00:00","EndDate":"2019-10-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:20.641] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-09-19T00:00:00","EndDate":"2019-10-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:20.739] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-05T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.853] [{"sendVacationData":{"EmploymentId":"890422a5-88d7-11df-92b6-0030487d9467","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:20.951] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-05T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:21.063] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-05T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:21.157] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-10-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:21.263] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-19T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:21.364] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-10-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:21.463] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-19T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:21.565] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:21.660] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:21.763] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:21.878] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-10-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:22:21.985] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:22.087] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-10-19T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:22:22.194] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:22:22.297] [{"sendVacationData":{"EmploymentId":"66425431-7b83-11e8-a04f-003048653dec","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:25:25.207] [{"sendVacationData":{"EmploymentId":"02dbcfc1-61ac-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-04-18T00:00:00","EndDate":"2019-11-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:25:25.310] [{"sendVacationData":{"EmploymentId":"02dbcfc1-61ac-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-10T00:00:00","EndDate":"2019-11-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:25:25.423] [{"sendVacationData":{"EmploymentId":"02dbcfc1-61ac-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-11-14T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:26:07.480] [{"sendVacationData":{"EmploymentId":"047fe5d3-e7da-11e8-9f02-003048653dec","Id":null,"StartDate":"2018-11-14T00:00:00","EndDate":"2019-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:26:07.590] [{"sendVacationData":{"EmploymentId":"047fe5d3-e7da-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-03-26T00:00:00","EndDate":"2019-04-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:26:07.719] [{"sendVacationData":{"EmploymentId":"047fe5d3-e7da-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-04-03T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:26:07.835] [{"sendVacationData":{"EmploymentId":"047fe5d3-e7da-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:26:07.943] [{"sendVacationData":{"EmploymentId":"047fe5d3-e7da-11e8-9f02-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:06.157] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2014-10-27T00:00:00","EndDate":"2017-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:06.251] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-03-26T00:00:00","EndDate":"2017-04-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 11:27:06.352] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-04-02T00:00:00","EndDate":"2017-04-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:06.454] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-04-03T00:00:00","EndDate":"2017-04-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:06.556] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-04-10T00:00:00","EndDate":"2017-10-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:06.654] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-10-02T00:00:00","EndDate":"2017-10-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:06.749] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2017-10-09T00:00:00","EndDate":"2018-02-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:06.846] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-02-14T00:00:00","EndDate":"2018-02-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:06.945] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-02-21T00:00:00","EndDate":"2018-08-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:07.051] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-08-20T00:00:00","EndDate":"2018-09-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:07.151] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-09-03T00:00:00","EndDate":"2018-10-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:07.257] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-10-12T00:00:00","EndDate":"2018-10-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:07.358] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-10-13T00:00:00","EndDate":"2018-10-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:07.459] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-10-15T00:00:00","EndDate":"2018-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:07.558] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2018-10-16T00:00:00","EndDate":"2019-02-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:07.658] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-02-11T00:00:00","EndDate":"2019-02-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:07.756] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-02-18T00:00:00","EndDate":"2019-03-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:07.855] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-03-14T00:00:00","EndDate":"2019-03-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 11:27:07.968] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-03-16T00:00:00","EndDate":"2019-05-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:08.087] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-05-06T00:00:00","EndDate":"2019-05-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:08.190] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-05-09T00:00:00","EndDate":"2019-05-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:08.305] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-05-13T00:00:00","EndDate":"2019-05-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:08.417] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-05-15T00:00:00","EndDate":"2019-08-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:08.521] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-08-19T00:00:00","EndDate":"2019-09-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:08.623] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-09-02T00:00:00","EndDate":"2019-09-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:08.724] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-09-10T00:00:00","EndDate":"2019-09-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 11:27:08.824] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-09-13T00:00:00","EndDate":"2019-09-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:08.923] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-09-17T00:00:00","EndDate":"2019-09-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 11:27:09.020] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-09-21T00:00:00","EndDate":"2019-10-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:09.126] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-10-16T00:00:00","EndDate":"2019-10-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 11:27:09.234] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-10-18T00:00:00","EndDate":"2019-10-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:09.337] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-10-24T00:00:00","EndDate":"2019-10-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 11:27:09.442] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-10-26T00:00:00","EndDate":"2019-11-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:27:09.546] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-11-05T00:00:00","EndDate":"2019-11-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:27:09.643] [{"sendVacationData":{"EmploymentId":"41d42d2c-5f85-11e4-a1fd-003048653dec","Id":null,"StartDate":"2019-11-09T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:05.079] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 11:36:05.202] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2018-12-12T00:00:00","EndDate":"2019-02-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:05.315] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-22T00:00:00","EndDate":"2019-02-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:05.416] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-02-23T00:00:00","EndDate":"2019-03-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:05.515] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-04T00:00:00","EndDate":"2019-03-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:05.625] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-05T00:00:00","EndDate":"2019-03-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:05.723] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-11T00:00:00","EndDate":"2019-03-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:05.841] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-12T00:00:00","EndDate":"2019-03-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:05.949] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-25T00:00:00","EndDate":"2019-03-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:06.047] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-03-26T00:00:00","EndDate":"2019-05-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:06.151] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-24T00:00:00","EndDate":"2019-05-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:06.261] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-05-25T00:00:00","EndDate":"2019-06-16T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:06.357] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-17T00:00:00","EndDate":"2019-06-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:36:06.471] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-06-24T00:00:00","EndDate":"2019-07-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:06.568] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-12T00:00:00","EndDate":"2019-07-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 11:36:06.663] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-07-13T00:00:00","EndDate":"2019-09-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 11:36:06.772] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-18T00:00:00","EndDate":"2019-09-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 11:36:06.869] [{"sendVacationData":{"EmploymentId":"e85f8308-fe10-11e8-95c1-003048653dec","Id":null,"StartDate":"2019-09-25T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:25.683] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 12:54:25.915] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2017-09-18T00:00:00","EndDate":"2017-10-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:26.065] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2017-10-03T00:00:00","EndDate":"2017-10-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:26.171] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2017-10-14T00:00:00","EndDate":"2018-01-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:26.529] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-01-21T00:00:00","EndDate":"2018-01-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 12:54:26.629] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-01-24T00:00:00","EndDate":"2018-02-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:26.732] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-02-26T00:00:00","EndDate":"2018-03-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:26.837] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-03-08T00:00:00","EndDate":"2018-03-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:26.938] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-03-21T00:00:00","EndDate":"2018-03-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 12:54:27.043] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-03-24T00:00:00","EndDate":"2018-04-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:27.156] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-04-16T00:00:00","EndDate":"2018-04-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:27.260] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-04-30T00:00:00","EndDate":"2018-06-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:27.362] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-06-08T00:00:00","EndDate":"2018-06-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:27.466] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-06-14T00:00:00","EndDate":"2018-09-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:27.570] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-09-10T00:00:00","EndDate":"2018-09-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:27.674] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-09-24T00:00:00","EndDate":"2018-10-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:27.771] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-10-29T00:00:00","EndDate":"2018-11-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:27.871] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-11-06T00:00:00","EndDate":"2018-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:27.999] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2018-11-11T00:00:00","EndDate":"2019-02-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:28.100] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-02-05T00:00:00","EndDate":"2019-02-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:28.226] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-02-09T00:00:00","EndDate":"2019-04-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:28.325] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-04-22T00:00:00","EndDate":"2019-04-25T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 12:54:28.428] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-04-26T00:00:00","EndDate":"2019-04-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:28.525] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-05-01T00:00:00","EndDate":"2019-06-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:28.625] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-06-13T00:00:00","EndDate":"2019-06-14T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:28.731] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-06-15T00:00:00","EndDate":"2019-08-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:28.831] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-02T00:00:00","EndDate":"2019-08-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:28.939] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-03T00:00:00","EndDate":"2019-08-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:29.049] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-08T00:00:00","EndDate":"2019-08-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:29.161] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-10T00:00:00","EndDate":"2019-08-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:29.265] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-12T00:00:00","EndDate":"2019-08-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:29.382] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-08-14T00:00:00","EndDate":"2019-09-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:29.732] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-09-16T00:00:00","EndDate":"2019-09-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:29.848] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-09-30T00:00:00","EndDate":"2019-11-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 12:54:29.953] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-11-11T00:00:00","EndDate":"2019-11-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 12:54:30.055] [{"sendVacationData":{"EmploymentId":"c5363385-9f81-11e7-9d58-003048653dec","Id":null,"StartDate":"2019-11-13T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:26.739] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 16:11:28.115] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-04-02T00:00:00","EndDate":"2019-06-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:28.237] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2014-04-01T00:00:00","EndDate":"2017-01-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:28.345] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-01T00:00:00","EndDate":"2019-07-02T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 16:11:28.452] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-01-23T00:00:00","EndDate":"2017-01-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 16:11:28.566] [{"sendVacationData":{"EmploymentId":"e141333d-5510-11e9-80d1-ac1f6bb077bf","Id":null,"StartDate":"2019-07-03T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:28.678] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-01-24T00:00:00","EndDate":"2017-01-31T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:28.788] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-02-01T00:00:00","EndDate":"2017-02-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:28.895] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-02-08T00:00:00","EndDate":"2017-06-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:28.999] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-06-05T00:00:00","EndDate":"2017-06-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:29.107] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-06-12T00:00:00","EndDate":"2017-07-30T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:29.215] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-07-31T00:00:00","EndDate":"2017-08-06T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:29.325] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-08-07T00:00:00","EndDate":"2017-12-07T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:29.431] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-12-08T00:00:00","EndDate":"2017-12-09T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 16:11:29.542] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2017-12-10T00:00:00","EndDate":"2018-05-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:29.655] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2018-05-28T00:00:00","EndDate":"2018-06-10T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:29.768] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2018-06-11T00:00:00","EndDate":"2018-12-05T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:29.867] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2018-12-06T00:00:00","EndDate":"2018-12-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Командировка"}}]
+
+[25.10.2019 16:11:29.986] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2018-12-09T00:00:00","EndDate":"2019-01-13T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:30.089] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-01-14T00:00:00","EndDate":"2019-01-27T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:30.199] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-01-28T00:00:00","EndDate":"2019-03-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:30.310] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-03-13T00:00:00","EndDate":"2019-03-22T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 16:11:30.426] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-03-23T00:00:00","EndDate":"2019-05-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:30.530] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-05-13T00:00:00","EndDate":"2019-05-19T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:30.640] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-05-20T00:00:00","EndDate":"2019-08-04T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:30.778] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-08-05T00:00:00","EndDate":"2019-08-11T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:30.889] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-08-12T00:00:00","EndDate":"2019-11-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:11:31.001] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-11-04T00:00:00","EndDate":"2019-11-18T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:11:31.365] [{"sendVacationData":{"EmploymentId":"142c35ea-bf05-11e3-8a75-003048653dec","Id":null,"StartDate":"2019-11-19T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:12:39.108] [{"employeeData":{"Id":"7f330a69-529f-11e3-8eb1-003048653dec","Name":"Маслов Александр Александрович","PersonnelNumber":"ЦТ000583  ","FullName":"Маслов Александр Александрович","ReceiptDate":"2013-11-18T00:00:00","DismissalDate":"2019-10-28T00:00:00","СompletionTrialPeriodDate":"2014-02-18T00:00:00","DepartmentId":"bdbbeefc-cae2-11e3-b6d7-003048653dec","JobPositionId":"437572f9-3f98-11e2-a212-003048653dec","EmploymentType":"ОсновноеМестоРаботы","ContractType":"ТрудовойДоговор","Code":null,"IsSeparate":null,"KPP":null,"IsFormed":null,"CreatedDate":null,"IsDisbanded":null,"DisbandmentDate":null,"ParentId":null,"IsApproved":null,"ApprovedDate":null,"IsClosed":null,"ClosedDate":null,"StaffCategory":null,"PeriodDate":null,"Registrar":null,"EventType":null,"Rate":0,"EmploymentId":null,"DayType":null,"Date":null,"StartDate":null,"EndDate":null,"AllegedEndDate":null,"State":null,"Records":null}}]
+
+[25.10.2019 16:23:00.558] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 16:23:00.775] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-02-26T00:00:00","EndDate":"2018-07-17T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:00.876] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-07-18T00:00:00","EndDate":"2018-07-20T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 16:23:00.990] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-07-21T00:00:00","EndDate":"2018-07-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:01.107] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-07-27T00:00:00","EndDate":"2018-08-03T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 16:23:01.215] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-08-04T00:00:00","EndDate":"2018-09-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:01.317] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-09-13T00:00:00","EndDate":"2018-09-26T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:23:01.422] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-09-27T00:00:00","EndDate":"2018-10-21T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:01.525] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-10-22T00:00:00","EndDate":"2018-10-24T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 16:23:01.641] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2018-10-25T00:00:00","EndDate":"2019-03-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:01.750] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-03-13T00:00:00","EndDate":"2019-03-15T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Болезнь"}}]
+
+[25.10.2019 16:23:01.870] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-03-16T00:00:00","EndDate":"2019-04-08T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:01.988] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-04-09T00:00:00","EndDate":"2019-04-23T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:23:02.090] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-04-24T00:00:00","EndDate":"2019-08-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:02.202] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-08-02T00:00:00","EndDate":"2019-08-12T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускОсновной"}}]
+
+[25.10.2019 16:23:02.310] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-08-13T00:00:00","EndDate":"2019-10-28T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 16:23:02.411] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-10-29T00:00:00","EndDate":"2019-10-29T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"ОтпускНеоплачиваемыйПоРазрешениюРаботодателя"}}]
+
+[25.10.2019 16:23:02.512] [{"sendVacationData":{"EmploymentId":"75de4823-1ac1-11e8-a7ed-003048653dec","Id":null,"StartDate":"2019-10-30T00:00:00","EndDate":"0001-01-01T00:00:00","AllegedEndDate":"0001-01-01T00:00:00","State":"Работа"}}]
+
+[25.10.2019 18:17:41.183] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 19:58:13.918] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 22:24:23.547] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]
+
+[25.10.2019 22:40:57.563] [{"UserName":"Supervisor","UserPassword":"8m2Tjoes6ITf"}]

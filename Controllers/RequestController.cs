@@ -10,6 +10,80 @@ namespace CrmServiceBus.RequestController
 {
     class Controller
     {
+        protected internal static readonly object httpLocker = new object();
+
+        /// <summary>
+        /// Маппинг коллекции методов для корректного составления json 
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="applicationClassRequest"></param>
+        /// <returns></returns>
+        private static object MappingCollectionMethod1C<T>(HttpWebRequest httpWebRequest, T applicationClassRequest)
+        {
+            DataIntegration1C<object> data1C = applicationClassRequest as DataIntegration1C<object>;
+            string stringJsonObject = JsonConvert.SerializeObject(data1C.Data);
+            Dictionary<string, object> requestData = new Dictionary<string, object>();
+
+            switch (data1C.EntityName)
+            {
+                case "Employee":
+                    requestData = new Dictionary<string, object>() {
+                        { "employeeData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
+                    };
+                    break;
+                case "JobPosition":
+                    requestData = new Dictionary<string, object>() {
+                        { "jobPositionData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
+                    };
+                    break;
+                case "Department":
+                    requestData = new Dictionary<string, object>() {
+                        { "departmentData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
+                    };
+                    break;
+                case "StaffTable":
+                    requestData = new Dictionary<string, object>() {
+                        { "staffTableData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
+                    };
+                    break;
+                case "SendEmployeeHistory":
+                    RequestData1C<SendEmployeeHistory> requestDataEmployeeHistory = JsonConvert.DeserializeObject<RequestData1C<SendEmployeeHistory>>(stringJsonObject);
+
+                    if (requestDataEmployeeHistory?.Records.Count > 0)
+                    {
+                        requestDataEmployeeHistory?.Records.ForEach(item => item.EmploymentId = requestDataEmployeeHistory.EmploymentId);
+                        requestDataEmployeeHistory?.Records.ForEach(item => RequestCollectionData(httpWebRequest,
+                            new Dictionary<string, SendEmployeeHistory>() {
+                                { "sendEmployeeHistoryData", item }
+                            }));
+                        return null;
+                    }
+                    break;
+                case "SendCalendar":
+                    requestData = new Dictionary<string, object>() {
+                        { "sendCalendarData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
+                    };
+                    break;
+                case "SendVacation":
+                    RequestData1C<SendVacation> requestDataVacation = JsonConvert.DeserializeObject<RequestData1C<SendVacation>>(stringJsonObject);
+
+                    if (requestDataVacation?.Records.Count > 0)
+                    {
+                        requestDataVacation?.Records.ForEach(item => item.EmploymentId = requestDataVacation.EmploymentId);
+                        requestDataVacation?.Records.ForEach(item => RequestCollectionData(httpWebRequest,
+                            new Dictionary<string, SendVacation>() {
+                                { "sendVacationData", item }
+                            }));
+                        return null;
+                    }
+                    break;
+                default:
+                    throw new Exception("Not supported request method");
+            }
+
+            return requestData;
+        }
+
         /// <summary>
         /// Установка значений для сервиса из конфигурационного файла
         /// </summary>
@@ -38,7 +112,23 @@ namespace CrmServiceBus.RequestController
         /// <typeparam name="T"></typeparam>
         /// <param name="httpWebRequest"></param>
         /// <returns></returns>
-        public static T ExecuteMethodBilling<T>(HttpWebRequest httpWebRequest) => GetResponseStreamService<T>(httpWebRequest);
+        public static T ExecuteMethodBilling<T>(HttpWebRequest httpWebRequest)
+        {
+            lock (httpLocker)
+            {
+                try
+                {
+                    T resultRequest = GetResponseStreamService<T>(httpWebRequest);
+                    Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(httpWebRequest));
+                    return resultRequest;
+                }
+                catch (Exception ex)
+                {
+                    Log.Write(ex, JsonConvert.SerializeObject(httpWebRequest));
+                    return default;
+                }
+            }
+        }
 
         /// <summary>
         /// Вспомогательный метод, вызывающий API методы (1C) в CRM
@@ -49,67 +139,46 @@ namespace CrmServiceBus.RequestController
         /// <returns></returns>
         public static object ExecuteMethod1C<T>(HttpWebRequest httpWebRequest, T applicationClassRequest)
         {
-            object requestData = MappingCollectionMethod1C(applicationClassRequest);
-
-            GetRequestStreamService<T>(httpWebRequest, requestData);
-            return GetResponseStreamService<T>(httpWebRequest);
+            object requestData = MappingCollectionMethod1C(httpWebRequest, applicationClassRequest);
+            if (requestData != null)
+            {
+                lock (httpLocker)
+                {
+                    try
+                    {
+                        GetRequestStreamService<T>(httpWebRequest, requestData);
+                        object resultRequest = GetResponseStreamService<T>(httpWebRequest);
+                        Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(requestData));
+                        return resultRequest;
+                    }
+                    catch (Exception ex)
+                    {
+                        Log.Write(ex, JsonConvert.SerializeObject(requestData));
+                        return null;
+                    }
+                }
+            }
+            return null;
         }
 
-        /// <summary>
-        /// Маппинг коллекции методов для корректного составления json 
-        /// </summary>
-        /// <typeparam name="T"></typeparam>
-        /// <param name="applicationClassRequest"></param>
-        /// <returns></returns>
-        private static object MappingCollectionMethod1C<T>(T applicationClassRequest)
+        public static object RequestCollectionData(HttpWebRequest httpWebRequest, object requestData)
         {
-            DataIntegration1C data1C = applicationClassRequest as DataIntegration1C;
-            Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(applicationClassRequest));
-            string stringJsonObject = JsonConvert.SerializeObject(data1C.Data);
-            object requestData;
-
-            switch (data1C.EntityName)
+            lock (httpLocker)
             {
-                case "Employee":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "employeeData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "JobPosition":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "jobPositionData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "Department":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "departmentData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "StaffTable":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "staffTableData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "SendEmployeeHistory":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "sendEmployeeHistoryData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "SendCalendar":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "sendCalendarData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                case "SendVacation":
-                    requestData = new Dictionary<string, RequestData1C>() {
-                        { "sendVacationData", JsonConvert.DeserializeObject<RequestData1C>(stringJsonObject) }
-                    };
-                    break;
-                default:
-                    throw new Exception("Not supported request method");
+                try
+                {
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, httpWebRequest.RequestUri.ToString());
+                    GetRequestStreamService<object>(httpWebRequest, requestData);
+                    object resultRequest = GetResponseStreamService<object>(httpWebRequest);
+                    Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(requestData));
+                    return resultRequest;
+                }
+                catch (Exception ex)
+                {
+                    Log.Write(ex, JsonConvert.SerializeObject(requestData));
+                    return null;
+                }
             }
-
-            return requestData;
         }
 
         #region Request for Authorization in crm
@@ -120,39 +189,64 @@ namespace CrmServiceBus.RequestController
         /// <param name="applicationClassLogin">Принимает и инициализирует экземпляр RequestAuthServiceClass для последующего запроса</param>
         public static ResponseAuthService AuthServiceRequest(HttpWebRequest httpWebRequest, RequestAuthServiceClass applicationClassLogin)
         {
-            return SendRequestAuthService(httpWebRequest, applicationClassLogin);
+            lock (httpLocker)
+            {
+                return SendRequestAuthService(httpWebRequest, applicationClassLogin);
+            }
         }
 
         private static ResponseAuthService SendRequestAuthService(HttpWebRequest httpWebRequest, RequestAuthServiceClass applicationClassLogin)
         {
-            GetRequestStreamService<RequestAuthServiceClass>(httpWebRequest, applicationClassLogin);
-            return GetResponseStreamService<ResponseAuthService>(httpWebRequest);
+            lock (httpLocker)
+            {
+                try
+                {
+                    GetRequestStreamService<RequestAuthServiceClass>(httpWebRequest, applicationClassLogin);
+                    ResponseAuthService responseAuth = GetResponseStreamService<ResponseAuthService>(httpWebRequest);
+                    Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(applicationClassLogin));
+                    return responseAuth;
+                }
+                catch (Exception ex)
+                {
+                    Log.Write(ex, JsonConvert.SerializeObject(applicationClassLogin));
+                    return default;
+                }
+            }
         }
 
         private static void GetRequestStreamService<T>(HttpWebRequest httpWebRequest, object applicationClassRequest)
         {
-            using (Stream requestStream = httpWebRequest.GetRequestStream())
+            lock (BalancerThread.basicLocker)
             {
-                using (StreamWriter writer = new StreamWriter(requestStream))
+                using (Stream requestStream = httpWebRequest.GetRequestStream())
                 {
-                    writer.Write(JsonConvert.SerializeObject(applicationClassRequest));
+                    using (StreamWriter writer = new StreamWriter(requestStream))
+                    {
+                        writer.Write(JsonConvert.SerializeObject(applicationClassRequest));
+                        requestStream.Close();
+                    }
+                    requestStream.Dispose();
                 }
             }
         }
 
         private static T GetResponseStreamService<T>(HttpWebRequest httpWebRequest)
         {
-            using (HttpWebResponse response = (HttpWebResponse)httpWebRequest.GetResponse())
+            lock (BalancerThread.basicLocker)
             {
-                using (StreamReader reader = new StreamReader(response.GetResponseStream()))
+                using (HttpWebResponse response = (HttpWebResponse)(httpWebRequest.GetResponse()))
                 {
-                    SettingLastTimeAuth(response);
-                    T responseRequest = JsonConvert.DeserializeObject<T>(reader.ReadToEnd());
-                    Log.Write(ConstantApp.LOG_INFO, JsonConvert.SerializeObject(responseRequest));
-                    return responseRequest;
+                    using (StreamReader reader = new StreamReader(response.GetResponseStream()))
+                    {
+                        SettingLastTimeAuth(response);
+                        T responseRequest = JsonConvert.DeserializeObject<T>(reader.ReadToEnd());
+                        response.Dispose();
+
+                        return responseRequest;
+                    }
                 }
             }
-        }
+        } 
 
         private static void SettingLastTimeAuth(HttpWebResponse response)
         {

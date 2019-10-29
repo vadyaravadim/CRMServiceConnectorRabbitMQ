@@ -9,6 +9,14 @@ using Newtonsoft.Json;
 
 namespace CrmServiceBus.Models
 {
+    public struct BalancerThread
+    {
+        public static readonly object basicLocker = new object[] {};
+    }
+    public struct HttpRequest
+    {   
+        public static WebResponse webResponse;
+    }
     public struct ConstantApp
     {
         public static readonly string LOG_INFO = "Info";
@@ -97,15 +105,18 @@ namespace CrmServiceBus.Models
         }
         public HttpWebRequest SettingMethodRequest(string method, string requestUrl)
         {
-            HttpWebRequest authRequest = WebRequest.Create(requestUrl) as HttpWebRequest;
-            authRequest.Method = method;
-            authRequest.ContentType = ContentTypeJSON;
-            authRequest.CookieContainer = CookieContainer;
-            if (authRequest.CookieContainer.Count >= 4)
+            lock (Controller.httpLocker)
             {
-                Controller.AddAuthKeyInHeader(ref authRequest);
+                HttpWebRequest authRequest = WebRequest.Create(requestUrl) as HttpWebRequest;
+                authRequest.Method = method;
+                authRequest.ContentType = ContentTypeJSON;
+                authRequest.CookieContainer = CookieContainer;
+                if (authRequest.CookieContainer.Count >= 4)
+                {
+                    Controller.AddAuthKeyInHeader(ref authRequest);
+                }
+                return authRequest;
             }
-            return authRequest;
         }
     }
 
@@ -172,7 +183,7 @@ namespace CrmServiceBus.Models
         /// <summary>
         /// Метод выполняющий запросы по API в CRM
         /// </summary>
-        /// <param name="method">Принимает метод запроса</param>
+        /// <param name="method">Принимает метод запроса</param> 
         /// <returns></returns>
         public object Request(string method)
         {
@@ -235,13 +246,13 @@ namespace CrmServiceBus.Models
     #endregion
 
     #region Description class for request integration method 1c in crm
-    public class DataIntegration1C
+    public class DataIntegration1C<TRecords>
     {
         public string EntityName { get; set; }
-        public RequestData1C Data { get; set; }
+        public RequestData1C<TRecords> Data { get; set; }
     }
 
-    public class RequestData1C
+    public class RequestData1C<TRecords>
     {
         public string Id { get; set; }
         public string Name { get; set; }
@@ -278,15 +289,29 @@ namespace CrmServiceBus.Models
         public string EndDate { get; set; }
         public string AllegedEndDate { get; set; }
         public string State { get; set; }
-        public List<SendVacation> Records { get; set; }
+        public List<TRecords> Records { get; set; }
     }
 
     public class SendVacation
     {
+        public string EmploymentId { get; set; }
+        public string Id { get; set; }
         public string StartDate { get; set; }
         public string EndDate { get; set; }
         public string AllegedEndDate { get; set; }
         public string State { get; set; }
+    }
+
+    public class SendEmployeeHistory
+    {
+        public string Id { get; set; }
+        public string PeriodDate { get; set; }
+        public string Registrar { get; set; }
+        public string EventType { get; set; }
+        public string Rate { get; set; }
+        public string EmploymentId { get; set; }
+        public string DepartmentId { get; set; }
+        public string JobPositionId { get; set; }
     }
     #endregion
 
@@ -302,8 +327,8 @@ namespace CrmServiceBus.Models
                 return pathToLog;
             }
         }
-        private static string _FileName { get; set; }
-        public static string FileName { get => _FileName; set => _FileName = Path.Combine(PathAppLog, string.Format("{0}_{1}_{2:dd.MM.yyy}.log", value,
+        private static string PrivateFileName { get; set; }
+        public static string FileName { get => PrivateFileName; set => PrivateFileName = Path.Combine(PathAppLog, string.Format("{0}_{1}_{2:dd.MM.yyy}.log", value,
                 AppDomain.CurrentDomain.FriendlyName, DateTime.Now)); }
         private protected static object sync = new object();
 
@@ -312,13 +337,13 @@ namespace CrmServiceBus.Models
     public class Log : ExtensionLogging
     {
         public static object Sync { get => sync; set => sync = value; }
-        public static void Write(Exception ex)
+        public static void Write(Exception ex, string requestJson = "")
         {
             try
             {
                 ExtensionLogging.FileName = ConstantApp.LOG_ERROR;
-                string fullText = string.Format("{0}[{1:dd.MM.yyy HH:mm:ss.fff}] [{2}.{3}()] {4}\r\n", Environment.NewLine,
-                DateTime.Now, ex.TargetSite.DeclaringType, ex.TargetSite.Name, ex.Message);
+                string fullText = string.Format("{0}[{1:dd.MM.yyy HH:mm:ss.fff}] [{2}.{3}()] [{4}.{5}]\r\n", Environment.NewLine,
+                DateTime.Now, ex.TargetSite.DeclaringType, ex.TargetSite.Name, ex.Message, requestJson);
                 lock (Sync)
                 {
                     File.AppendAllText(ExtensionLogging.FileName, fullText, Encoding.UTF8);

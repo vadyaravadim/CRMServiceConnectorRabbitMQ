@@ -7,12 +7,12 @@
   "ApplicationSettings": [
     {
       "Exchange": "faust",
-      "QueuName": "queue_billing",
+      "QueuName": "queue_1c",
       "Type": "fanout"
     },
     {
       "Exchange": "faust",
-      "QueuName": "queue_1c_test",
+      "QueuName": "queue_billing",
       "Type": "fanout"
     }
   ],
