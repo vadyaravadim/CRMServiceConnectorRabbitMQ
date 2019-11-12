@@ -26,27 +26,37 @@ namespace CrmServiceBus.RequestController
 
             switch (data1C.EntityName)
             {
-                case "Employee":
+                case EntityConsts.Employee:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.Employee));
+
                     requestData = new Dictionary<string, object>() {
                         { "employeeData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
                     };
                     break;
-                case "JobPosition":
+                case EntityConsts.JobPosition:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.JobPosition));
+
                     requestData = new Dictionary<string, object>() {
                         { "jobPositionData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
                     };
                     break;
-                case "Department":
+                case EntityConsts.Department:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.Department));
+
                     requestData = new Dictionary<string, object>() {
                         { "departmentData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
                     };
                     break;
-                case "StaffTable":
+                case EntityConsts.StaffTable:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.StaffTable));
+
                     requestData = new Dictionary<string, object>() {
                         { "staffTableData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
                     };
                     break;
-                case "SendEmployeeHistory":
+                case EntityConsts.SendEmployeeHistory:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.SendEmployeeHistory));
+
                     RequestData1C<SendEmployeeHistory> requestDataEmployeeHistory = JsonConvert.DeserializeObject<RequestData1C<SendEmployeeHistory>>(stringJsonObject);
 
                     if (requestDataEmployeeHistory?.Records.Count > 0)
@@ -59,12 +69,16 @@ namespace CrmServiceBus.RequestController
                         return null;
                     }
                     break;
-                case "SendCalendar":
+                case EntityConsts.SendCalendar:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.SendCalendar));
+
                     requestData = new Dictionary<string, object>() {
                         { "sendCalendarData", JsonConvert.DeserializeObject<RequestData1C<object>>(stringJsonObject) }
                     };
                     break;
-                case "SendVacation":
+                case EntityConsts.SendVacation:
+                    httpWebRequest = new GeneralSettingRequest().SettingMethodRequest(GeneralSettingRequest.POST, RequestApplicationClass.ReturnCurrentUrlApi(new ImplementationRequestBilling().MappingCollectionMethods(), EntityConsts.SendVacation));
+
                     RequestData1C<SendVacation> requestDataVacation = JsonConvert.DeserializeObject<RequestData1C<SendVacation>>(stringJsonObject);
 
                     if (requestDataVacation?.Records.Count > 0)

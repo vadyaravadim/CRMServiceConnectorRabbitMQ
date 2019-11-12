@@ -2,7 +2,7 @@
   "AppUrl": "http://84.201.137.19:5100",
   "RabbitMQAuthUrl": "amqp://mango:mango@84.201.137.19:5672/crm",
   "Login": "Supervisor",
-  "Password": "8m2Tjoes6ITf",
+  "Password": "Supervisor",
   "UserSessionTimeout": 10,
   "ApplicationSettings": [
     {

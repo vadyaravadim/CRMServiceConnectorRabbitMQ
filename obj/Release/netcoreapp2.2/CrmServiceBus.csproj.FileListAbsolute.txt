@@ -27,4 +27,3 @@ D:\devs\MANGO ESB\CrmServiceBus\CrmServiceBus\bin\Release\netcoreapp2.2\CrmServi
 D:\devs\MANGO ESB\CrmServiceBus\CrmServiceBus\obj\Release\netcoreapp2.2\CrmServiceBus.RazorTargetAssemblyInfo.cache
 D:\devs\MANGO ESB\CrmServiceBus\CrmServiceBus\obj\Release\netcoreapp2.2\CrmServiceBus.dll
 D:\devs\MANGO ESB\CrmServiceBus\CrmServiceBus\obj\Release\netcoreapp2.2\CrmServiceBus.pdb
-D:\devs\MANGO ESB\CrmServiceBus\CrmServiceBus\obj\Release\netcoreapp2.2\CrmServiceBus.csprojAssemblyReference.cache

@@ -102,7 +102,7 @@ namespace CrmServiceBus.Receiver
             private void StartIntegrationCrm(RequestApplicationClass requestApplicationClass)
             {
                 requestApplicationClass.Request(GeneralSettingRequest.POST);
-                _channel.BasicAck(deliveryTag, false);
+                //_channel.BasicAck(deliveryTag, false);
             }
         }
 

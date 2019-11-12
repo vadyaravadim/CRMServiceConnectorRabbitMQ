@@ -9,6 +9,17 @@ using Newtonsoft.Json;
 
 namespace CrmServiceBus.Models
 {
+    public struct EntityConsts
+    {
+        public const string Employee = "Employee";
+        public const string JobPosition = "JobPosition";
+        public const string Department = "Department";
+        public const string StaffTable = "StaffTable";
+        public const string SendEmployeeHistory = "SendEmployeeHistory";
+        public const string SendCalendar = "SendCalendar";
+        public const string SendVacation = "SendVacation";
+    }
+
     public struct BalancerThread
     {
         public static readonly object basicLocker = new object[] {};
@@ -200,9 +211,10 @@ namespace CrmServiceBus.Models
             return null;
         }
 
-        public static string ReturnCurrentUrlApi(Dictionary<string, string> MappingCollectionMethods)
+        public static string ReturnCurrentUrlApi(Dictionary<string, string> MappingCollectionMethods, string nameRequest = "")
         {
-            string curretUrlRequest = MappingCollectionMethods.Where(index => index.Key.ToLower() == EntityName.ToString().ToLower()).Select(index => index.Value).FirstOrDefault();
+            string curretUrlRequest = MappingCollectionMethods.Where(index => index.Key.ToLower() == (string.IsNullOrEmpty(nameRequest) ? EntityName.ToString().ToLower() : nameRequest.ToString().ToLower())).Select(index => index.Value).FirstOrDefault();
+            if (string.IsNullOrEmpty(curretUrlRequest)) return string.Empty;
             if (curretUrlRequest.ToLower().Contains(Integration1C.ToLower())) IntegrationService = Integration1C;
             if (curretUrlRequest.ToLower().Contains(IntegrationBilling.ToLower())) IntegrationService = IntegrationBilling;
             return ModelAppSettings.LinkToObject.AppUrl + curretUrlRequest;
@@ -258,6 +270,8 @@ namespace CrmServiceBus.Models
         public string Name { get; set; }
         public string PersonnelNumber { get; set; }
         public string FullName { get; set; }
+        public string StaffTableId { get; set; }
+        public string Email { get; set; }
         public string ReceiptDate { get; set; }
         public string DismissalDate { get; set; }
         public string СompletionTrialPeriodDate { get; set; }
